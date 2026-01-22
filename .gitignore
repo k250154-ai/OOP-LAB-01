@@ -1,0 +1,16 @@
+# Compiled executables
+task1
+task2
+task3
+task4
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Other compiled files
+*.a
+*.so
+*.dll
