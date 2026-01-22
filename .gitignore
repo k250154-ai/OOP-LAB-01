@@ -1,0 +1,7 @@
+# Ignore compiled executables in the src directory
+src/*
+!src/*.cpp
+!src/*.h
+
+# Ignore compiled executables in any directory
+*.exe
